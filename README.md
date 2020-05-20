@@ -7,7 +7,7 @@ This plugin requires a Genesis theme to work properly, and it also works best wi
 This plugin does a number of things out of the box:
 * Adds a content type for jobs
 * Adds categories for jobs
-* Sets up the single view of jobs, including three widget areas: sidebar (to show more jobs), above content (to show any required legal statments), after content (for an application form)
+* Sets up the single view of jobs, including three widget areas: sidebar (to show more jobs), above content (to show any required legal statements), after content (for an application form)
 * Forces the single 
 
 ## Shortcodes
