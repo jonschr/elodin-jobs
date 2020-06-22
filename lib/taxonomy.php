@@ -9,6 +9,7 @@ function elodin_jobs_register_taxonomies() {
 			'label' => __( 'Job Categories' ),
 			'rewrite' => array( 'slug' => 'job-categories' ),
 			'hierarchical' => true,
+			'show_in_rest' => true,
 		)
 	);
 }

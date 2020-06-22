@@ -1,3 +1,6 @@
+### 1.0.1 
+* Fix the taxonomy not showing in the single gutenberg editor
+
 ### 1.0
 * Adding styles
 * Adding widget areas to the single-jobs template

@@ -3,7 +3,7 @@
 	Plugin Name: Elodin Jobs
 	Plugin URI: https://elod.in
     Description: Just another jobs listing plugin
-	Version: 1.0
+	Version: 1.0.1
     Author: Jon Schroeder
     Author URI: https://elod.in
 
