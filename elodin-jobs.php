@@ -28,7 +28,7 @@ if ( !defined( 'ABSPATH' ) ) {
 define( 'ELODIN_JOBS', dirname( __FILE__ ) );
 
 // Define the version of the plugin
-define ( 'ELODIN_JOBS_VERSION', '1.0' );
+define ( 'ELODIN_JOBS_VERSION', '1.0.1' );
 
 // Register the content type/tax
 require_once( 'lib/post_type.php' ); 
