@@ -3,7 +3,7 @@
 	Plugin Name: Elodin Jobs
 	Plugin URI: https://elod.in
     Description: Just another jobs listing plugin
-	Version: 1.0.1
+	Version: 1.1
     Author: Jon Schroeder
     Author URI: https://elod.in
 
@@ -28,7 +28,7 @@ if ( !defined( 'ABSPATH' ) ) {
 define( 'ELODIN_JOBS', dirname( __FILE__ ) );
 
 // Define the version of the plugin
-define ( 'ELODIN_JOBS_VERSION', '1.0.1' );
+define ( 'ELODIN_JOBS_VERSION', '1.1' );
 
 // Register the content type/tax
 require_once( 'lib/post_type.php' ); 

@@ -8,8 +8,12 @@
         padding: 20px;
         background-color: white;
         border-radius: 3px;
-        transition: .3s all ease;
+        transition: 0.3s all ease;
         border: 1px solid #e8e8e8;
+
+        h3 {
+            margin-top: 0;
+        }
 
         .overlay {
             position: absolute;
